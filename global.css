@@ -1,0 +1,29 @@
+.orange{
+    color:orange;
+}
+.largesize{
+    font-size:100px;
+}
+.center{
+    text-align:center;
+}
+.midium{
+    font-size:50px;
+}
+.purple{
+    color:rgb(202, 66, 202);
+}
+.border-purple{
+    border: 5px solid rgb(202, 66, 202);
+}
+@font-face {
+    font-family: "cstyle";
+    src: url("./cstyle.ttf");
+}
+.cstyle{
+    font-family: cstyle,sans-serif;
+}
+.text-thick{
+    font-weight: 1700;
+    font-size: 150px
+}
