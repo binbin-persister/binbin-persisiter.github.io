@@ -1,0 +1,10 @@
+# 禁用所有插件
+plugins: []
+
+# 设置默认文件为 index.html
+defaults:
+  - scope:
+      path: ""
+    values:
+      index: true
+      layout: none
